@@ -1,0 +1,15 @@
+{
+  "name": "dd-events",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node dd-events.js"
+  },
+
+  "dependencies": {
+    "tail": "*",
+    "nodemailer": "*",
+    "nodemailer-smtp-transport": "*"
+  }
+}
+
